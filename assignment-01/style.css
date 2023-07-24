@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2f2f2f;
+}
+
+.question-container {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.question {
+  padding: 20px;
+  margin-bottom: 25px;
+  border: 1px solid #2f2f2f;
+  background-color: #e8e5e5;
+}
